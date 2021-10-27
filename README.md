@@ -1,4 +1,4 @@
-# Gallery Image/API from UNSPLASH[]
+# Gallery Image/API from [UNSPLASH](https://unsplash.com/)
 
 ## Overview
 
@@ -14,9 +14,9 @@ Users should be able to:
 ![](./screenshot.png)
 
 
-### Links
+### Link
 
-- Live Site URL: [site URL here]()
+- Live Site URL: [site URL here](https://tamiriscss.github.io/api-unsplash/)
 
 ## My process
 
