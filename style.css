@@ -66,3 +66,14 @@ input:focus {
     margin-top: 1rem;
     cursor: pointer;
 }
+
+@media (max-width: 480px) {
+    .nav {
+        justify-content: center;
+    }
+    .nav h2 {
+        font-size: 1.5rem;
+        text-align: center;
+        margin-bottom: .80rem;
+    }
+}
